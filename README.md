@@ -1,6 +1,6 @@
 # File-system
 
-# How to execute hello.c file
+#### How to execute hello.c file
 # 1.do make
 # 2.command below code
 #   gdb ./hello
